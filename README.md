@@ -9,4 +9,4 @@ These shot charts are from a 1/21/19 contest between the 76ers and Rockets. The 
 
 ![](images/76ers.png)
 
-![](images/Rockets.png)
+![](images/rockets.png)
