@@ -1,6 +1,10 @@
 # location_data
 Generating shot, foul, and assist charts
 
+## Description
+
+This repo contains a notebook (`location_data.ipynb`) that explores the `shotchartdetail` and `playbyplayv2` endpoint of the [stats.nba.com](https://stats.nba.com) API. With the `Player` and `PlayByPlay` classes of the `py_ball` package, the notebook walks through generating shot, foul, and assist charts.
+
 ## Results
 
 These shot charts are from a 1/21/19 contest between the 76ers and Rockets.
