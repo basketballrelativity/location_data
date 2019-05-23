@@ -17,6 +17,14 @@ The Rockets played to their strengths by shooting three-point and restricted are
 
 ![](images/rockets.png)
 
+The Mystics shot charts below are from a 5/17/19 preseason game against the Dream.
+
+![](images/mystics.png)
+
+![](images/walker-kimbrough.png)
+
+Walker-Kimbrough shot well, going 7-9 from the field and 3-3 from three-point land.
+
 ### Assist Charts
 
 The Sixers also won the assist battle 21-14. The charts show that the Sixers were able to create more assisted three-point field goals than the Rockets.
